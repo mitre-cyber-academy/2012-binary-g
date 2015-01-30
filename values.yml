@@ -1,0 +1,4 @@
+name: "Don't Screw This Up"
+description: |
+  Satellite SIRIUS-A was recently affected by solar flare activity and is no longer functioning properly. We're not entirely sure what its doing but there appears to be some sort of service running on port 3490. See if you can get any useful data out of it.
+flag: "MCA-A4C52829"
